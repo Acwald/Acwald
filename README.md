@@ -1,8 +1,4 @@
 ### Hi there 👋
-<div align="center">
-<a href="https://github.com/seenbest/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seenbest&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
 
 
 <!--
