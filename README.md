@@ -4,7 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mathliker&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathliker&layout=compact)](https://github.com/mathliker/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathliker&theme=dracula&layout=compact)
+
 <!--
 **seenbest/seenbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
