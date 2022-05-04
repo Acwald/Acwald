@@ -7,7 +7,7 @@
 </div>
 
 #### 以下这些😅
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python) ![Juila](https://img.shields.io/badge/-Julia-brightgreen?style=flat-square&logo=Julia) ![Java](https://img.shields.io/badge/-java-orange?style=flat-square&logo=java) ![Latex](https://img.shields.io/badge/-LaTeX-ff69b4?style=flat-square&logo=LaTex) 我都不会😭
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python) ![Juila](https://img.shields.io/badge/-Julia-brightgreen?style=flat-square&logo=Julia) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) ![Latex](https://img.shields.io/badge/-LaTeX-ff69b4?style=flat-square&logo=LaTex) 我都不会😭
 #### 正在搞这些
 ![数学分析](https://img.shields.io/badge/-数学分析-red?style=flat-square) ![高等代数](https://img.shields.io/badge/-高等代数-orange?style=flat-square)  ![数值分析](https://img.shields.io/badge/-数值分析-yellow?style=flat-square) ![数学物理方法](https://img.shields.io/badge/-数学物理方法-success?style=flat-square) ![量子力学](https://img.shields.io/badge/-量子力学-blue?style=flat-square)
  
