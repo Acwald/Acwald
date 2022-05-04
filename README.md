@@ -2,9 +2,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mathliker.readme)
 
 
-![info](https://github-readme-stats.vercel.app/api?username=mathliker&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://github-readme-stats.vercel.app/api?username=mathliker&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
-![Leo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathliker&layout=compact&hide_border=true&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathliker&layout=compact)](https://github.com/mathliker/github-readme-stats)
 <!--
 **seenbest/seenbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
