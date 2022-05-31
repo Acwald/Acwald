@@ -1,4 +1,4 @@
-## Hi! 😁😁😊😊🤣🤣
+## Hi! 😁😊😊🤣🤣
 ![](https://visitor-badge.glitch.me/badge?page_id=mathliker.readme)
 
 <div align="center">
