@@ -1,9 +1,9 @@
 ## Hi! 🐱‍🏍
-![](https://visitor-badge.glitch.me/badge?page_id=mathliker.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=Acwald.readme)
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sklansky&show_icons=true&count_private=true&hide=prs&theme=dracula" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sklansky&theme=dracula&layout=compact" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Acwald&show_icons=true&count_private=true&hide=prs&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acwald&theme=dracula&layout=compact" />
 </div>
 
 #### Still trying to learn these.
