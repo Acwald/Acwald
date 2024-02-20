@@ -7,7 +7,7 @@
 </div>
 
 #### Still trying to learn these.
-![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python) ![Juila](https://img.shields.io/badge/-Julia-brightgreen?style=flat-square&logo=Julia) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) ![Latex](https://img.shields.io/badge/-LaTeX-ff69b4?style=flat-square&logo=LaTex)
+![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python) ![Godot](https://img.shields.io/badge/-Godot-brightgreen?style=flat-square&logo=Julia) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) ![Latex](https://img.shields.io/badge/-LaTeX-ff69b4?style=flat-square&logo=LaTex)
 #### Also learn some of these.
 ![Math](https://img.shields.io/badge/-Analysis-red?style=flat-square) ![algebra](https://img.shields.io/badge/-Algebra-orange?style=flat-square) ![Physics](https://img.shields.io/badge/-Physics-success?style=flat-square)
  
